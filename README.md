@@ -67,5 +67,5 @@ Excel: Power Query, XLOOKUP, IF, pivot tables, calculated fields, PivotCharts
 
 ## Files
 - `citycare_pharmacy_sales.xlsx`: the original messy export (before)
-- the analysis workbook: Power Query cleaning, pivots and dashboard (after)
+- `pharmacy-sales-excel.xlsx`: Power Query cleaning, pivots and dashboard (after)
 - `images/dashboard.png`: dashboard screenshot
